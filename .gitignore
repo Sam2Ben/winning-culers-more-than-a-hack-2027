@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+data/
+results/
+*.csv
+*.mp4
+*.xml
+*.npz

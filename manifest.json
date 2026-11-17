@@ -1,0 +1,17 @@
+{
+  "status": "experimental_not_submitted",
+  "D_evidence_gain": 1.5,
+  "HA_transition_cost": 16,
+  "model_source": "IDSSE J03WMX",
+  "development": [
+    "J03WN1",
+    "J03WOH"
+  ],
+  "new_test": "J03WPY",
+  "files": {
+    "predict.py": "aa86107bd2d6880737708a09f2fe265eec999e2c2ae8ee5fff01c18d2a94c109",
+    "baseline.py": "cbf7a96669634e084fce1497cec09d73f6755a4e9d2397508d96908a1dd28c0d",
+    "augmented_model.pkl": "e8cee0ffb48d6b1aad28abc79aeb7b8edc8eca354314329e3c723a3f9c9498a1",
+    "requirements.txt": "dab9a3f8a4fbb4229b676920fa4c4ceafd5cf773be2ef3558ac21bb1724ac1ac"
+  }
+}
